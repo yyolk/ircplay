@@ -13,3 +13,6 @@ This is in that vein.
 Originally made to be used against the twitch-chat-downloader for `.irc`
 output chat logs.
 
+Currently using TheDrHax/Twich-Chat-Downloader fork which does currently work,
+for now. See: https://github.com/TheDrHax/Twitch-Chat-Downloader.
+
